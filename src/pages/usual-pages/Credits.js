@@ -37,7 +37,7 @@ const Credits = () => {
 
                             <div className="row">
                                 <div className="col-3  d-flex justify-content-center box-size">
-                                    <img style={{ border: "1px solid black" }} src="/img/Ashish3.jpg" className="img-fluid  img-css" alt="" />
+                                    <img style={{ border: "1px solid black" }} src="/img/ashish3.jpg" className="img-fluid  img-css" alt="" />
                                 </div>
                                 <div className="col-9  p-2 fontem" style={{ lineHeight: "20px", display: "flex", flexDirection: "column", justifyContent: "center" }}>
                                     <div className="row ">
